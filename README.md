@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorranu
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on breakthrough big data problems
+- 👀 I’m interested in battery aging estimation
+- 🌱 I’m currently learning SOH algorithms
+- 💞️ I’m looking to collaborate on predictive battery performance projects
 - 📫 How to reach me Twitter @slicksvics
 
 <!---
